@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aritra Deb</h1>
 <h3 align="center">MCA || Web Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif"><br>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra45&label=Profile%20views&color=0e75b6&style=flat" alt="aritra45" /> </p>
 
