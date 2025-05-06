@@ -1,4 +1,4 @@
-![logo](https://github.com/Aritra45/Aritra45/blob/main/aritra.png)
+![logo](https://github.com/Aritra45/Aritra45/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aritra Deb</h1>
 <h3 align="center">MCA'24 || Frontend Web Developer</h3>
 
