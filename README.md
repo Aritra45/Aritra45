@@ -1,6 +1,6 @@
 ![logo](https://github.com/Aritra45/Aritra45/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aritra Deb</h1>
-<h3 align="center">MCA'24 || Frontend Web Developer</h3>
+<h3 align="center">MCA'24 || Software Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
